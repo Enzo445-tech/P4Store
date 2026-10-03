@@ -1,58 +1,30 @@
 > [!WARNING]
-> # ⚠️ NEXA STORE : INFORMATIONS IMPORTANTES
-> 
-> **Le projet est actuellement en phase intensive de développement.**
-> 
-> * 🌐 **Accessibilité :** Le store est pleinement fonctionnel sur les navigateurs classiques (PC/Mobile) pour la consultation.
-> * 🎮 **Stabilité PS4 :** Le fonctionnement sur le navigateur de la PS4 n'est pas encore stable à 100%. Des optimisations sont en cours pour garantir une expérience fluide sur la console.
-> * 🛠️ **Maintenance en direct :** Nous effectuons des mises à jour fréquentes du code. À cause de ces changements constants, le store peut devenir inaccessible ou instable par moments.
+> # ⚠️ Fin de l'ancienne version
 >
-> *Merci de votre compréhension. Le projet évolue chaque jour pour devenir la meilleure version de lui-même !*
+> **L'ancienne version du store disparaît.** Elle ne sera plus mise à jour ni maintenue, et son accès pourra être coupé à tout moment.
+>
+> Un **tout nouveau store** est en préparation : **P4Store**. Il repart de zéro, avec une nouvelle base et une nouvelle interface.
 
+# P4Store
 
-## 🚀 À propos de Nexa Store
+**P4Store** est le futur store homebrew pour PS4, pensé en français et conçu pour être simple à utiliser avec une manette.
 
-**Nexa Store** est une solution moderne et intuitive pour accéder aux applications Homebrew sur PS4. Pensé pour l'utilisateur, il se distingue par sa légèreté et sa simplicité d'utilisation.
+## 📦 Distribution
 
-### 🌟 Pourquoi choisir Nexa Store ?
+À terme, P4Store sera distribué sous forme de **PKG**, à installer directement sur la console. Il ne dépendra plus du navigateur de la PS4.
 
-* **🇫🇷 Entièrement en Français :** Marre des stores uniquement en anglais ? Nexa est pensé pour la communauté francophone avec une interface claire et compréhensible.
-* **⚡ Rapidité Extrême :** Grâce à l'utilisation d'icônes Unicode/Emojis au lieu d'images lourdes, le store se charge instantanément, même sur le navigateur de la PS4.
-* **🔍 Recherche Intégrée :** Trouvez vos PKG en quelques secondes grâce à une barre de recherche fluide et réactive.
-* **🎨 Design Soigné :** Une interface épurée, moderne et agréable à l'œil, optimisée pour la navigation sur grand écran.
-* **🔰 Accessible à tous :** Pas de configurations complexes. Le store est conçu pour être utilisable immédiatement, même par les débutants en hack PS4.
-* **🔓 Code Open Source :** Le projet est transparent et partagé sous licence GPL v3. Tout le monde peut consulter le code et vérifier sa sécurité.
+## ✨ Ce qui vous attend
 
+* **🇫🇷 Entièrement en français :** une interface claire, pensée pour la communauté francophone.
+* **🎮 Navigation à la manette :** pensé pour le canapé et le grand écran.
+* **🔍 Recherche intégrée :** retrouvez une application en quelques secondes.
+* **🎨 Design épuré :** fond clair, sélection bleue, fiches détaillées pour chaque application.
+* **🔰 Accessible à tous :** utilisable immédiatement, même pour les débutants.
 
-<p align="center">
-  <img src="screen.png" alt="Nexa Store Screenshot">
-  <br>
-  <sub><i>*Capture d'écran officielle du Nexa Store affichée sur PC.</i></sub>
-</p>
+## 🛠️ État du projet
 
-
-## 📅 À venir (Roadmap)
-
-Le Nexa Store continue d'évoluer avec de nouvelles fonctionnalités et du contenu ajouté régulièrement :
-
-* **📚 Catalogue Enrichi :** Nous travaillons sur un inventaire beaucoup plus complet. Vous y trouverez bientôt toutes les références incontournables du hack PS4, mais aussi des "pépites cachées" et des homebrews moins connus qui méritent le détour.
-* **🔄 Optimisations Constantes :** Amélioration de la compatibilité avec les différentes versions de navigateurs PS4.
-
-
-## 👥 Rejoindre la Communauté
-
-Nexa Store n'est pas qu'un simple projet, c'est une aventure qui grandit grâce à vous ! Pour ne rien manquer et participer à l'évolution du store, rejoignez notre espace d'échange.
-
-* 📢 **News en avant-première :** Soyez les premiers informés des nouvelles mises à jour.
-* 🛠️ **Support & Aide :** Une équipe et une communauté à l'écoute pour vous aider en cas de besoin.
-* 💡 **Suggestions :** Partagez vos idées et aidez-nous à choisir les prochaines pépites à ajouter au catalogue.
-
-🎮 **Cliquez ici pour rejoindre le serveur :** Serveur clôturer ! 
-
+Le développement est en cours. Les fonctionnalités et le catalogue évoluent régulièrement, et aucune date de sortie n'est annoncée pour le moment.
 
 ---
 
-### ❤️ Soutenir le projet
-Le **Nexa Store** est et restera un projet **gratuit et Open Source**. Le meilleur moyen de nous soutenir est de partager le store autour de vous, de nous rejoindre sur Discord et de contribuer à faire grandir la scène Homebrew PS4 !
-
-*Développé avec passion par Enzo445 pour la communauté.*
+*Développé par Enzo445.*
