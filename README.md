@@ -7,7 +7,7 @@
 
 # P4Store
 
-**P4Store** est le futur store homebrew pour PS4, pensé en français et conçu pour être simple à utiliser avec une manette.
+**P4Store** est le futur store homebrews/jeux pour PS4, pensé en français et conçu pour être simple à utiliser avec une manette.
 
 ## 📦 Distribution
 
